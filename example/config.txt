@@ -1,0 +1,2 @@
+Prefix plugins/RandomDAG/example/
+Plugin RandomDAG inputfile parameters.txt outputfile output.png

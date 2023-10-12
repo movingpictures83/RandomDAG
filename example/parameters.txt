@@ -1,0 +1,2 @@
+numnodes	20
+numedges	40
